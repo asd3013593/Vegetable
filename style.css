@@ -15,6 +15,7 @@ body {
 }
 
 .background {
+  margin: auto;
   width: 1260px;
   height: 880px;
   background-color: rgb(237, 242, 197);
